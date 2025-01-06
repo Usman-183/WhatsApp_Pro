@@ -1,11 +1,11 @@
 {
   "fnmods_update": [
     {
- "version":"2.0",
+ "version":"0.0",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"WhatsApp Pro Official
 
-Base: 2.23 1.76
+Base: 2.24.21.79
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
