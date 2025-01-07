@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"1",
+ "version":"1.0",
  "title":"Update Disponible",
  "description":"The Usman Modz
 
