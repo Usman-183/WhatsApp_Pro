@@ -1,11 +1,11 @@
 {
   "fnmods_update": [
     {
- "version":"0.0",
+ "version":"1",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"The Usman Modz
 
-Base: 0.0
+Base: 1.0
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
